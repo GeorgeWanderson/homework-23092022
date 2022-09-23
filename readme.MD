@@ -1,6 +1,6 @@
 ## TRABALHO EM GRUPO SOLICITADO PELA FIAP
 
-- Alunos:
+<h3>Alunos:</h3>
 
 - Milena Carvalho
 - Íris Gonçalves
